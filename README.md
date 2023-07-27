@@ -1,6 +1,6 @@
 # Hotel Management System
 Admin Panel
-![Hotel Management System](/Screenshort/hotel-management-hilalsalarzi.png.png) <!-- You can add a screenshot of the hotel management system here -->
+![Hotel Management System](/Screenshort/hotel-management-hilalsalarzi.png) <!-- You can add a screenshot of the hotel management system here -->
 
 Welcome to the Hotel Management System project! This is a comprehensive web-based application developed using HTML, CSS, Bootstrap, JavaScript, PHP, MySQL, and AJAX. The project aims to streamline hotel operations, providing functionalities for room reservations, guest management, billing, and more.
 
@@ -27,7 +27,7 @@ The project is developed using the following technologies:
 - MySQL for the database management.
 - AJAX for real-time interactions and seamless user experience.
 ## User Interface
-![Hotel Management System](/Screenshort/hotel-management-user-hilalsalarzi.png.png)
+![Hotel Management System](/Screenshort/hotel-management-user-hilalsalarzi.png)
 
 ## Database Schema
 
