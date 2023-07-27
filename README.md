@@ -27,7 +27,7 @@ The project is developed using the following technologies:
 - MySQL for the database management.
 - AJAX for real-time interactions and seamless user experience.
 ## User Interface
-![Hotel Management System](/Screenshort/hotel-management-user-hilalsalarzi.png)
+![Hotel Management System](/Screenshort/hotel-management-system-user-hilalasalarzi.png)
 
 ## Database Schema
 
