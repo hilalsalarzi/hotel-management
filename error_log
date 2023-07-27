@@ -1,0 +1,97 @@
+[21-Jan-2022 06:12:38 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 06:22:31 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 06:22:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 06:22:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 06:22:37 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 06:22:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 06:22:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 06:22:37 America/New_York] PHP Notice:  Undefined index: roles in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 87
+[21-Jan-2022 06:22:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 89
+[21-Jan-2022 06:22:37 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 90
+[21-Jan-2022 06:22:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 06:22:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 06:22:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 06:22:51 America/New_York] PHP Notice:  Undefined index: roles in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 87
+[21-Jan-2022 06:22:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 89
+[21-Jan-2022 06:22:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 90
+[21-Jan-2022 06:22:55 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 06:22:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 06:22:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 06:22:55 America/New_York] PHP Notice:  Undefined index: roles in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 87
+[21-Jan-2022 06:22:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 89
+[21-Jan-2022 06:22:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 90
+[21-Jan-2022 06:23:00 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 06:23:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 06:23:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 06:23:00 America/New_York] PHP Notice:  Undefined index: roles in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 87
+[21-Jan-2022 06:23:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 89
+[21-Jan-2022 06:23:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 90
+[21-Jan-2022 07:21:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 07:21:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 07:21:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 07:39:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 07:39:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 07:39:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 07:40:00 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mindjqlv/apartment.mindgigspk.com/include/db.php on line 6
+[21-Jan-2022 07:40:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 07:40:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[21-Jan-2022 07:40:30 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 3
+[21-Jan-2022 07:40:30 America/New_York] PHP Notice:  Undefined variable: connection in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 07:40:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 48
+[21-Jan-2022 07:40:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mindjqlv/apartment.mindgigspk.com/index.php on line 49
+[01-Nov-2022 08:01:00 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:01:00 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:01:02 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:01:02 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:01:04 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:01:04 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:01:07 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:01:07 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mindjqlv_apartment failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:42 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:42 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:45 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:45 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:47 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:47 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:48 America/New_York] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
+[01-Nov-2022 08:03:48 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for biotaaox_bilal failed: Name or service not known in /home/biotaaox/bilal.biotechhmc.pk/include/db.php:6
+Stack trace:
+#0 /home/biotaaox/bilal.biotechhmc.pk/include/db.php(6): mysqli_connect()
+#1 /home/biotaaox/bilal.biotechhmc.pk/index.php(2): include('/home/biotaaox/...')
+#2 {main}
+  thrown in /home/biotaaox/bilal.biotechhmc.pk/include/db.php on line 6
